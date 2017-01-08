@@ -14,3 +14,8 @@ https://github.com/zsh-users/zsh-syntax-highlighting
 ```
 https://github.com/sentientmachine/erics_vim_syntax_and_color_highlighting
 ```
+
+###vim-bracket auto complete
+```
+https://github.com/jiangmiao/auto-pairs
+```
